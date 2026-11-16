@@ -9,14 +9,14 @@ updated: 2026-11-16
 
 ⚠️ Écrit sans le process de la méthode (⬜ À COMBLER), avec l'accord de Halim. À revoir à l'arrivée du module créa.
 - V2 (2026-11-16) : NOIR 540 n'est qu'un des 5 parfums → le texte parle du beurre NOXE et explique qu'il y a 5 parfums.
-⚠️ La ligne « dalla mattina alla sera » n'est valable que si la vraie démo filmée le montre.
+- V2.1 (2026-11-16) : Halim choisit l'option B (vidéo IA sans témoignage) → « dalla mattina alla sera » retiré du texte et du titre 2.
 
 ## Texte principal
 Ti spruzzi il profumo alle 7. Alle 11 non lo senti più.
 
 Non è colpa del tuo naso. Un profumo spray è fatto soprattutto di alcol, e l'alcol evapora portandosi via la fragranza.
 
-Il burro corpo NOXE funziona al contrario: è profumato, senza una goccia di alcol. La fragranza resta fissata nel burro di karité, sulla tua pelle, dalla mattina alla sera.
+Il burro corpo NOXE funziona al contrario: è profumato, senza una goccia di alcol. La fragranza resta fissata nel burro di karité, sulla tua pelle.
 
 ✓ Una noce dopo la doccia, su collo e avambracci
 ✓ Idrata e profuma in un solo gesto
@@ -30,7 +30,7 @@ Spedizione gratuita in Italia.
 
 ## Titres
 1. Il profumo che non evapora
-2. Dalla mattina alla sera, senza ritocchi
+2. Il profumo resta sulla pelle, non nell'aria
 3. Niente alcol. Niente che svanisce.
 
 ## Descriptions
