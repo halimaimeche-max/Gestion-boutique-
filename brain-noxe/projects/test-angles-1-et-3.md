@@ -30,7 +30,8 @@ Angles validés le 2026-11-16. Brief rédigé ci-dessous. Créas pas encore prod
 - [ ] Budget de test et seuil d'arrêt → il faut le COGS (facture fournisseur) — ⬜ À COMBLER
 - [x] Angle 1 : la démo est filmée par l'homme lui-même, en selfie (décision du 2026-11-16)
 - [ ] Rédiger l'adcopy des deux angles (agent `copywriter`) — accord de Halim le 2026-11-16 ; registres validés (angle 1 vente directe, angle 3 native) ; V1 écrites → `projects/adcopy/` ; en attente des retours de Halim
-- [ ] Produire les visuels (agent `directeur-artistique`) — après accord de Halim
+- [x] Adcopy V2 des deux angles validées (2026-11-16) → `projects/adcopy/`
+- [ ] Produire les vidéos via Higgsfield (demande de Halim) — bloqué : 10 crédits ; format de l'angle 1 à trancher
 - [ ] Noter les résultats dans [[results]] (knowledge/ab-tests)
 
 ## Décisions prises
