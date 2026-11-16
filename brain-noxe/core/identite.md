@@ -13,7 +13,7 @@ status: interview faite le 2026-11-16 — réponses manquantes ⬜ À COMBLER
 - **CA réalisé à ce jour :** ⬜ À COMBLER
 
 ## Mon business
-- **Boutiques :** Solevita (le coussin) · Noxe (le beurre corporel)
+- **Boutiques :** Solevita (le coussin) · Noxe (le beurre corporel) — une boutique Shopify chacune
 - **Boutique prioritaire :** ⬜ À COMBLER
 - **Ce que je vends :** le beurre corporel
 - **Marché cible :** ⬜ À COMBLER
