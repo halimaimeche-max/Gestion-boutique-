@@ -36,9 +36,9 @@ Tu rédiges LA réponse client, prête à copier-coller. Marché FR, marque prem
 - ⚠️ Ce ton est l'inverse des créas/adcopy, où les émojis restent OK. Ne pas confondre.
 
 ## 3. Questions santé / traitement (règle dure)
-Une cliente parle d'hormonothérapie, grossesse, allergie, traitement ? **Jamais de conseil médical, jamais « aucun risque, allez-y ».** La ligne juste, dans cet ordre :
+Un client parle de grossesse, allergie, traitement ? **Jamais de conseil médical, jamais « aucun risque, allez-y ».** La ligne juste, dans cet ordre :
 1. Vérifier dans le `brand/` de la boutique la nature réelle du produit avant toute réponse santé. ⛔ Jamais de conseil médical, jamais « aucun risque ».
-2. Recommander de **valider avec son médecin ou pharmacien** par précaution (la formule contient du rétinol).
+2. Recommander de **valider avec son médecin ou pharmacien** par précaution.
 3. Suggérer un **test au creux du coude**.
 4. Rappeler la **garantie satisfait ou remboursé**.
 Rassurant mais responsable — ça protège la marque.
