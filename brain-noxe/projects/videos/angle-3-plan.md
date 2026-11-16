@@ -18,4 +18,5 @@ updated: 2026-11-16
 (Uniquement des affirmations déjà validées dans l'adcopy de l'angle 3 et de l'angle 1.)
 
 ## Production
-- Image de départ séquence A (nano-banana-pro, 270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/1e64147d-7dec-47dd-9eae-1f15782da253/0.jpg — salle de bain, t-shirt blanc, serviette sur l'épaule, flacon de crème et flacon de parfum sans marque sur le lavabo, pas de pot NOXE. En attente de validation.
+- Image de départ séquence A (nano-banana-pro, 270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/1e64147d-7dec-47dd-9eae-1f15782da253/0.jpg — salle de bain, t-shirt blanc, serviette sur l'épaule, flacon de crème et flacon de parfum sans marque sur le lavabo, pas de pot NOXE. Refusée par Halim : « la salle de bain doit être une salle de bain designée d'une maison, celle d'un homme qui prend soin de lui et de son apparence ». Concept et voix off validés.
+- Image de départ séquence A V2 (270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/de8dbd96-a7a8-4d5e-ae95-2fae0d0060a9/0.jpg — salle de bain design (pierre grise, travertin, meuble en noyer suspendu, robinet noir mat, éclairage indirect, plante, serviettes anthracite, plateau de soins). En attente de validation.
