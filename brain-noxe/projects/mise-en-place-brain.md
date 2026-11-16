@@ -12,7 +12,7 @@ Un brain complet : Claude connaît la boutique, ses chiffres, son client, ses r�
 
 ## Les étapes du setup
 - [x] 1. Structure + méthode commune + équipe d'agents installées (2026-11-16)
-- [ ] 2. Interview d'identité (core/)
+- [x] 2. Interview d'identité (core/) — 2026-11-16 : seules les autorisations ont été confirmées ; le reste ⬜ À COMBLER
 - [ ] 3. Shopify branché (produits, prix)
 - [ ] 4. Vrai coût : COGS, frais de paiement, break-even
 - [ ] 5. Documents branchés (Drive)
@@ -24,6 +24,9 @@ Un brain complet : Claude connaît la boutique, ses chiffres, son client, ses r�
 ## ⬜ À COMBLER — la liste complète
 > Ce que le brain n'a pas encore, et **quand** ça arrive. Je relis cette liste à chaque début de session et je te rappelle ce qui peut être comblé.
 > Quand un élément est comblé : je le coche et je note la date.
+
+### Dès que tu as la réponse
+- [ ] Les réponses de l'interview : qui je suis, business, équipe, journée type, objectifs, préférences (`core/`)
 
 ### Quand tu as ta boutique et ton produit
 - [ ] Le nom de la boutique (et renommer le dossier `brain-ecom` si besoin)

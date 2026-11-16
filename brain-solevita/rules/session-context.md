@@ -6,7 +6,8 @@ updated: 2026-11-16
 
 # Contexte de session — Solevita, au 2026-11-16
 
-- Brain créé le 2026-11-16. Étape 1 (structure) faite. Mise en place en cours → `projects/mise-en-place-brain.md`.
+- Brain créé le 2026-11-16. Étapes 1 et 2 faites (interview : seules les autorisations confirmées). Mise en place en cours → `projects/mise-en-place-brain.md`.
 
 ## Prochaine étape
-- Étape 2 : interview d'identité — en attente des réponses.
+- Étape 3 : Shopify — demander le feu vert et quelle boutique correspond à cette marque.
+- Rappeler les réponses de l'interview encore ⬜ À COMBLER.
