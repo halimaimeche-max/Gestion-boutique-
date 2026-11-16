@@ -13,7 +13,7 @@ Un fichier par sujet. À remplir au fil de l'eau, en commençant par les plus re
 | [[produits]] | Catalogue réel (Shopify), produit hero | 🟡 lu le 2026-11-16 — éléments ⚠️ CONTESTÉ à trancher |
 | [[prix-cogs-breakeven]] | Prix, COGS réels, marges, break-even | ⬜ À COMBLER |
 | [[reviews]] | Avis clients réels | ⬜ À COMBLER |
-| [[concurrents]] | Veille concurrents + angles | ⬜ À COMBLER |
+| [[concurrents]] | Veille concurrents + angles | 🟡 première veille le 2026-11-16 (Italie + Royaume-Uni/Allemagne) |
 | [[creas]] | Carte du Drive (templates, docs, avis, dossiers créas) | ⬜ À COMBLER |
 | [[optimisations]] | Pistes de marge | ⬜ À COMBLER |
 
