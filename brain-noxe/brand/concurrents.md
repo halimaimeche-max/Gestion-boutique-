@@ -38,3 +38,46 @@ source: Trendtrack via Spybox (bibliothèque de pubs Facebook), recherche du 202
 
 ## Liens
 - [[produits]] · [[reviews]]
+
+---
+
+# Mise à jour 2026-11-16 (après-midi) — les 6 plus gros concurrents et leurs créas
+Source : Trendtrack via Spybox, recherches par marque (Desiros, Attraskin, London NK, Pheromen) + « pheromone body butter » et « burro corpo » (toutes pubs). 216 SBC. Dépenses = estimations Trendtrack.
+
+## ⚠️ Correction d'un constat du matin
+Le matin, j'écrivais que l'angle « ton parfum disparaît avant midi » n'était **pas vu en Italie**. C'est faux : **Osmé Fragrance** (Italie) le fait depuis le 20/10/2026 avec presque les mêmes mots que l'adcopy de l'angle 1 de Noxe : « Il tuo profumo da 300€ sparisce prima di pranzo… è fatto soprattutto di alcol… ». Encore petit (~1 000 € dépensés), mais en hausse. → À signaler à Halim pour l'angle 1.
+
+## Les 6 concurrents
+| # | Marque | Pays | Produit | Poids | Angle principal |
+|---|---|---|---|---|---|
+| 1 | **Desiros** (desiros.me) | Italie | parfum aux phéromones en spray | 399 pubs, 4,95 M de portée/30 j — le plus gros | attirance sexuelle « pura biologia », preuve « scientifique » (études citées), « dopo i 30 i feromoni calano », versions 2.0/3.0, rareté |
+| 2 | **Attraskin** (attraskin.com/it) | Italie | **beurre corporel aux phéromones** (direct) | 112 pubs, 2,2 M/30 j, en accélération | « lascia perdere il solito profumo: passa a un burro corpo » ; version longue « tu as passé 40 ans, tu aimes les parfums de marque, à 34 € au lieu de 100-300 € » |
+| 3 | **Osmé Fragrance** (osmefragrance.it) | Italie | **beurre corporel aux phéromones** (direct) | 54 pubs, 0,69 M/30 j, récent | « ton parfum à 300 € disparaît avant midi (alcool) » + UGC « évite de l'acheter si tu ne veux pas qu'on te complimente », 3+2 offerts à 17,98 €/pot |
+| 4 | **Pheromen** (pheromen.com) | UK / US / AU | spray (+ beurre corporel) | 637 pubs, 0,93 M/30 j | attirance très explicite (vidéos de réactions de femmes), « interdit au Japon et en Australie », rareté |
+| 5 | **Little Miracles** (page « Natural Wellness Insights ») | UK / US | **beurre corporel aux phéromones** | 0,70 M de portée en 30 j, très récent | récit « je sentais rien » + « même odeur que le parfum à 300 $ pour 9,95 $ », sketch au bar, Black Friday |
+| 6 | **London NK** + Limestonu/Miriano + Outsaw + Forge | UK / DE / UE | beurre corporel aux phéromones (London NK = boutique généraliste) | petites dépenses sur ce produit (< 400 €/pub) | « cologne fades by lunch », sketch « prank à l'hôtel », « à Dubaï les hommes ne vaporisent pas » ; Forge : histoires de tromperie |
+
+Hors sujet mais vu : Bottega Verde et JUST Italia (beurres corporels cosmétiques classiques, pas de parfum ni de phéromones).
+
+## Les créas qui ont le plus dépensé, par concurrent
+| Concurrent | Format | Angle | Dépense est. | Jours | Statut | Lien |
+|---|---|---|---|---|---|---|
+| Desiros | vidéo | Réactions de femmes « Diventa irresistibile » | ~33 900 € | 466 | active | https://medias.trendtrack.io/facebook/video/bb6ac441a71dbfd9d0791cf9cf2f3178658d8b27e22d80ee8809aa571d35a2c6.mp4 |
+| Desiros | vidéo | « Dopo i 30 i feromoni calano » + UGC | ~14 500 € | 77 | active | https://medias.trendtrack.io/facebook/video/c54ed7052fc43510349d15940d48114cc8da3f207c2287259b65497179ed920a.mp4 |
+| Desiros | vidéo | Version 3.0 « 3× plus de phéromones » | ~13 900 € | 158 | active | https://medias.trendtrack.io/facebook/video/899d65618f69bec032dd495411235d4182d1e3ebc984298f7fcba941a1f14dc5.mp4 |
+| Desiros | image | « Preuve scientifique » (études citées) | ~13 300 € | 164 | inactive | https://medias.trendtrack.io/facebook/image/154e97872a9972c3d8cd00d9b07b7982e8bbce9a096f4f72b394099cb9d8e185.jpg |
+| Attraskin | vidéo | « Lascia perdere il solito profumo » | ~5 800 € | 36 | active | https://medias.trendtrack.io/facebook/video/e8694740da6c53b744806345f1e32d6d1f77df8c1ba36468a611a640e94586cc.mp4 |
+| Attraskin | image | Homme de 40+ ans, parfum de marque trop cher | ~960 € | 26 | active | https://medias.trendtrack.io/facebook/image/9687e6aaf4c072f6f45380160a4c96360540fdccc7b5711b8100f186092c4938.jpg |
+| Osmé | vidéo | UGC « évite de l'acheter… » + « 300 € disparaît avant midi » | ~985 € | 27 | active, en hausse | https://medias.trendtrack.io/facebook/video/235f8130a3e8b9e57504a5dd1803aba16780e522047b1891558d2ca71e51eb21.mp4 |
+| Pheromen | vidéo | Réactions de femmes, « 20 ans de recherche » | ~3 800 € | 263 | active | https://medias.trendtrack.io/facebook/video/3c83dd3ec6a6561092d9df0fc4a649d463ff5ab49614a0bf48d42a33b043f544.mp4 |
+| Pheromen | vidéo | « Interdit au Japon et en Australie » | ~940 € | 392 | active | https://medias.trendtrack.io/facebook/video/dfa02b050ef4946eda209e2e5408cf6a33a59bdc6d8660b98d43fa3f9c67838b.mp4 |
+| Little Miracles | image | Récit « je ne sentais rien » + prix 9,95 $ | ~545 € | 8 | inactive | https://medias.trendtrack.io/facebook/image/8faab1be34dff6e6b7eeb7b7354ef4e5f73e6d3a0b5e0302b66b152fe89ff836.jpg |
+| Little Miracles | vidéo | Sketch au bar « même odeur que Baccarat » | ~490 € | 17 | inactive | https://medias.trendtrack.io/facebook/video/8795ea1ec3b93ce5778f84f8edcef11dde91a0ab4cb20445ca12a129ea74cfca.mp4 |
+| Outsaw (Silver Purr) | vidéo | « Cologne fades by lunch » | ~365 € | 194 | active | https://medias.trendtrack.io/facebook/video/75dbe34c44035a68347cb3b64b6bc054a5e71e1df810fa8cf4d1f64fdaeecefb.mp4 |
+| London NK | vidéo | Sketch « prank à l'hôtel » | ~220 € | 22 | active | https://medias.trendtrack.io/facebook/video/2fc7b10de161ee1dceaf4dc086a586ec86efdaf1240b606fab8950c42524d11d.mp4 |
+
+## Constats (pas des décisions)
+1. **En Italie, un seul gros budget : Desiros** (spray). Les beurres corporels aux phéromones (Attraskin, Osmé) sont jeunes et dépensent encore peu → le marché du beurre est ouvert.
+2. Les deux concurrents directs italiens couvrent déjà : « remplace ton parfum par un beurre » (Attraskin) et « ton parfum s'évapore avant midi » (Osmé, très proche de l'angle 1 de Noxe).
+3. Personne en Italie n'a encore été vu sur **la routine « un seul geste après la douche »** (angle 3 de Noxe) comme angle principal.
+4. ⚖️ La majorité des pubs qui dépensent le plus font des promesses sexuelles explicites, des faux témoignages ou des preuves « scientifiques » discutables. Risque Meta et juridique : pas un modèle.
