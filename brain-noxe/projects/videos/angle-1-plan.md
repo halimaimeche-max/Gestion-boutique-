@@ -57,3 +57,4 @@ Solde Higgsfield : 10 crédits. L'essai gratuit (« unlimited ») n'est pas util
 
 ## Production Spybox (validée par Halim le 2026-11-16 : Gemini Omni 1.2 Flash · 1080p)
 - Image de départ séquence 1 (nano-banana-pro, 270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/77c80741-c174-4ce1-9bd4-a6e70eb48687/0.jpg — en attente de validation de Halim
+- Séquence 1 (Gemini Omni 1.2 Flash, 1080p, 15 s) : **refusée par la modération** (content_rejected), 0 SBC débité. Pas de nouvel essai pour contourner la modération : décision à prendre avec Halim (avatar original ?).
