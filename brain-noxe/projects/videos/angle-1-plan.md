@@ -44,3 +44,13 @@ updated: 2026-11-16
 | 2 séquences vidéo de 15 s | 480 crédits | 210 crédits |
 | **Total par vidéo de 30 s** | **≈ 493 crédits** | **≈ 223 crédits** |
 Solde Higgsfield : 10 crédits. L'essai gratuit (« unlimited ») n'est pas utilisable depuis Claude Code (seulement Claude chat, Cowork, ChatGPT).
+
+## Devis Spybox (2026-11-16, simulation sans débit) — solde 19 198 SBC
+| Modèle | Séquence de 15 s | Vidéo de 30 s (2 séquences + 1 image de départ à 270) | Les 2 vidéos |
+|---|---|---|---|
+| Seedance 2.5 · 1080p | 35 550 | 71 370 | ❌ hors solde |
+| Seedance 2.5 · 720p | 14 175 | 28 620 | ❌ hors solde |
+| Kling 4 · 1080p | 10 575 | 21 420 | ❌ hors solde |
+| Wan 3 · 1080p | 7 200 | 14 670 | ❌ hors solde |
+| **Gemini Omni 1.2 Flash · 1080p** | **2 250** | **4 770** | **≈ 9 540** |
+| Seedance 2 Mini · 720p | 1 845 | 3 960 | ≈ 7 920 |
