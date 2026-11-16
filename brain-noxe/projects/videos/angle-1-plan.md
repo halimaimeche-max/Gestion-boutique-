@@ -63,4 +63,7 @@ Solde Higgsfield : 10 crédits. L'essai gratuit (« unlimited ») n'est pas util
 - Image de départ séquence 1 avec le nouvel avatar (270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/962e44cb-06a4-4668-8fde-b6f8f5be6335/0.jpg — ✅ validée.
 - Séquence 1 (Gemini Omni 1.2 Flash, 1080p, 15 s, 2 250 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/102847ce-6b00-4963-ba80-e46187b62b48/0.mp4
   - Contrôle : visage stable, pot NOXE correct, flacon sans marque, italien correct de 0 à 9,8 s (texte validé dit en entier). ⚠️ De 9,8 à 15 s, il prononce une phrase qui ne veut rien dire → coupée.
-  - Version coupée à 9,9 s (fondu du son) : https://d2ol7oe51mr4n9.cloudfront.net/user_3M6lEVMWBygOs1NnU3zjLz2va8F/97244615-6128-4e0e-850c-0fddcef33c45.mp4 — en attente de validation de Halim. Rien n'entre dans le brain comme avatar officiel sans la décision de Halim.
+  - Version coupée à 9,9 s (fondu du son) : https://d2ol7oe51mr4n9.cloudfront.net/user_3M6lEVMWBygOs1NnU3zjLz2va8F/97244615-6128-4e0e-850c-0fddcef33c45.mp4 — en attente de validation de Halim.
+- Séquence 2 (Gemini Omni 1.2 Flash, 1080p, 15 s, 2 250 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/bf0d7894-c4e0-482a-a21e-028eafc4e3ca/0.mp4
+  - Contrôle : texte italien dit en entier et correct (0-10,7 s), puis silence, sourire. Visage stable.
+  - ⚠️ Défaut : de ~3 à 5 s, il tient un pot ouvert pendant qu'un 2e pot fermé reste sur la table (pot dupliqué) ; ensuite le pot sur la table a de nouveau son couvercle. Correction proposée à Halim. Rien n'entre dans le brain comme avatar officiel sans la décision de Halim.
