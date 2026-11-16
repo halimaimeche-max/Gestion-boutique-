@@ -34,6 +34,7 @@ Résumé complet : [[identite]] · Préférences & règles d'autorisation : [[pr
 | un modèle de fichier réutilisable | `templates/` |
 | les angles pub validés | `brand/angles.md` |
 | les concurrents | `brand/concurrents.md` |
+| l'homme des vidéos pub | `brand/avatar-video.md` |
 | une créa STATIQUE | `~/methode/creation/statique.md` (⬜ À COMBLER jusqu'au module créa) |
 | une créa NATIVE | `~/methode/creation/native.md` (⬜ À COMBLER jusqu'au module créa) |
 | fabriquer une image | `~/methode/creation/image.md` (⬜ À COMBLER jusqu'au module créa) |
