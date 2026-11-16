@@ -10,7 +10,7 @@ Un fichier par sujet. À remplir au fil de l'eau, en commençant par les plus re
 
 | Fichier | Contenu | État |
 |---|---|---|
-| [[produits]] | Catalogue réel (Shopify), produit hero | ⬜ À COMBLER |
+| [[produits]] | Catalogue réel (Shopify), produit hero | 🟡 page produit lue le 2026-11-16 (Shopify pas encore branché) |
 | [[prix-cogs-breakeven]] | Prix, COGS réels, marges, break-even | ⬜ À COMBLER |
 | [[reviews]] | Avis clients réels | ⬜ À COMBLER |
 | [[concurrents]] | Veille concurrents + angles | ⬜ À COMBLER |

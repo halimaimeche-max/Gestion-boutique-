@@ -16,7 +16,7 @@ status: interview faite le 2026-11-16 — réponses manquantes ⬜ À COMBLER
 - **Boutiques :** Solevita (le coussin) · Noxe (le beurre corporel) — une boutique Shopify chacune
 - **Boutique prioritaire :** ⬜ À COMBLER
 - **Ce que je vends :** le coussin
-- **Marché cible :** ⬜ À COMBLER
+- **Marché cible :** Italie (site en italien, solevitaufficiale.it) — lu sur la page produit le 2026-11-16
 - **Modèle :** ⬜ À COMBLER
 - **Canal d'acquisition principal :** ⬜ À COMBLER
 - **Perf actuelle :** ⬜ À COMBLER
