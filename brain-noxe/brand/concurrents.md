@@ -85,6 +85,7 @@ Hors sujet mais vu : Bottega Verde et JUST Italia (beurres corporels cosmétique
 ---
 
 # Mise à jour 2026-11-16 (soir) — pays voisins et Royaume-Uni
+> ⚠️ Halim : « ces concurrents ne vendent pas le même produit que moi ». Exact : cette section liste surtout des **parfums en spray** aux phéromones. Gardée pour info (angles), mais **ce ne sont pas des concurrents directs**. Les vrais concurrents (même produit) sont dans la section suivante.
 Source : Trendtrack via Spybox, recherches « phéromones », « parfum aux phéromones » (FR), « feromonas » (ES/PT), « Pheromonen » (DE/AT), « pheromone cologne » (UK). 315 SBC. Dépenses = estimations Trendtrack. Les pubs pour animaux (Feliway, Adaptil, Virbac…) remontent dans ces recherches et ont été écartées.
 ⚠️ Dans ces pays, presque tous les concurrents vendent un **parfum en spray** aux phéromones, pas un beurre corporel. Les beurres trouvés hors Italie sont au Royaume-Uni (voir plus haut : Little Miracles, London NK, Outsaw, Pheromen) et en Allemagne (Limestonu/Miriano).
 
@@ -107,3 +108,25 @@ Source : Trendtrack via Spybox, recherches « phéromones », « parfum aux phé
    - **la tenue par l'huile** (Mirage, Allemagne : « 30 % d'huile ») — même logique que l'angle 1 de Noxe.
 3. Le **paiement à la livraison** est un argument mis en avant en Espagne (Pheroeli, Deseo Absoluto).
 4. En France, le plus gros acteur vise **les femmes** (ECDF) avec l'angle « mon mari me regarde autrement » — un public que Noxe n'adresse pas (mais For Her existe dans le catalogue).
+
+---
+
+# Correction 2026-11-16 (soir) — concurrents qui vendent LE MÊME produit (beurre corporel parfumé aux phéromones), hors Italie
+Source : Trendtrack via Spybox, « beurre corporel » (FR), « manteca corporal » (ES), « Körperbutter » / « Body Butter Pheromonen » (DE), + recherches UK déjà faites. 135 SBC.
+
+| Pays | Marque | Produit | Pub qui a le plus dépensé | Dépense est. | Angle | Lien |
+|---|---|---|---|---|---|---|
+| 🇫🇷🇧🇪 | **ARQAM** (arqamscent.com, page « Sukti Healthy Life ») | beurre corporel aux phéromones, **Noir 540**, 5 parfums, « érosine », 2+1 offert | vidéo « 7 premiers jours sur ta peau » (57 j) | ~1 220 € (les pubs tournaient de juillet à octobre 2026, arrêtées depuis le 21/10) | « Fini les parfums, bonjour ARQAM » ; parfum = alcool qui s'évapore vs karité qui fixe ; comparaison « 2 hommes : Baccarat vs beurre » ; « frère, sur la tête de mon fils » (UGC) ; érosine/attirance | https://medias.trendtrack.io/facebook/video/9a811dd813ecef0e94dfdb1ac53396203f9735170c341397714b8d2efd927f13.mp4 |
+| 🇫🇷🇧🇪 | ARQAM | idem | vidéo UGC « frère, sur la tête de mon fils » | ~1 220 € | parfums de luxe gâchés, l'odeur ne tient pas, secret des millionnaires, femme jalouse | https://medias.trendtrack.io/facebook/video/6845db1de227ce2dff90be1d29fc7036eb08e83af2a47bfac79d6c90652f15cd.mp4 |
+| 🇫🇷🇧🇪 | ARQAM | idem | vidéo « 2 hommes, jour 1 / jour 30 » | ~1 100 € | comparaison spray Baccarat vs beurre, 93 % d'alcool, prix | https://medias.trendtrack.io/facebook/video/64c7075b598b03a833f37811089f3a6b6ed22b1c1e9ba62a8d1a6a697674d3e8.mp4 |
+| 🇫🇷 | **Aeko** (aeko-store.com) | « beurre corporel parfumé » aux phéromones, notes safran/ambre | vidéo active (24 j) | ~360 €, en hausse | « Oubliez le parfum ordinaire, passez au beurre corporel », Black Friday 2+1, satisfait ou remboursé « même pot ouvert » | https://medias.trendtrack.io/facebook/video/3ab8fa5838aac1031f678405f2e011e3488a22a7079d0c66d7ae8cab0f936231.mp4 |
+| 🇪🇸 | **Valerio Skin** (valerioskin.com) | manteca corporal **Crimson 540**, 35 €, 3×2 | vidéo (5 j) | ~60 € | « On a demandé à ton parfum à 300 € combien de parfum il contient. Il n'a pas aimé la question » (alcool) | https://medias.trendtrack.io/facebook/video/ffabf06b9698838c374cbfc201ab7ba9f4c8cb00c5bb12ca1c661a6dee30f476.mp4 |
+| 🇪🇸 | **Selyne / Soy Bravo Men** (soybravomen.com) | manteca con feromonas, 2 pots 36,90 € | image active (10 j) | ~30 € | « Un pot, trois rôles : sent le parfum de luxe, tient 12 h+, hydrate » | https://medias.trendtrack.io/facebook/image/efb6233e387cdea29276a0105405ad68fd71d39f9f435766446ce7b432c739d4.png |
+| 🇩🇪🇦🇹 | **Limestonu / Miriano** (limestonu.com) | Pheromone Body Butter | vidéo (18 j) | ~75 € | sketch « prank à l'hôtel », remplace parfum + crème | (voir section du matin) |
+| 🇩🇪 | Detroland | beurre corporel parfumé au bois d'oud (sans phéromones) | vidéo (20 j) | ~70 € | 2-en-1 soin + parfum, cadeau de Noël | https://medias.trendtrack.io/facebook/video/f468b4770155bc01fde827f143aa77744c42cb8bb4d0efd7daf24b916621438c.mp4 |
+| 🇬🇧 | Little Miracles · London NK · Outsaw · Pheromen | pheromone body butter | (voir sections précédentes) | ≤ 550 € par pub | « cologne fades by lunch », même odeur que le parfum à 300 $ | — |
+
+## Constats (pas des décisions)
+1. **Hors Italie, le beurre corporel aux phéromones n'est presque pas exploité en pub** : les plus gros budgets trouvés sont ~1 200 € par pub. Personne ne domine.
+2. ⚠️ **ARQAM (France/Belgique) vend exactement le même produit que Noxe** : même nom « Noir 540 », mêmes 5 parfums, même « érosine », même « 135 400 hommes », mêmes formules (« Fini les parfums… », « 93 % d'alcool »). Et le vendeur Shopify de Noxe s'appelle **ARQAM**, les images de la page Noxe portent des noms « aq-… ». → **À clarifier avec Halim : ARQAM est-elle sa propre marque (version française de Noxe) ?** Si oui, ce n'est pas un concurrent mais une source de créas déjà testées.
+3. Le nom « 540 » revient chez plusieurs (Attraskin « Crimson 540 », Valerio « Crimson 540 ») → probablement le même fournisseur pour tous.
