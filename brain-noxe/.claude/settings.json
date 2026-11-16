@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"$CLAUDE_PROJECT_DIR/rules/session-context.md\" \"$CLAUDE_PROJECT_DIR/rules/lessons-learned.md\" \"$CLAUDE_PROJECT_DIR/projects/mise-en-place-brain.md\" \"$HOME/methode/SOCLE.md\" \"$HOME/methode/REGLES-APPRISES.md\" 2>/dev/null",
+            "statusMessage": "Chargement du brain (contexte, leçons, méthode)…"
+          }
+        ]
+      }
+    ]
+  }
+}
