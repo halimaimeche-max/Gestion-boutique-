@@ -54,3 +54,6 @@ Solde Higgsfield : 10 crédits. L'essai gratuit (« unlimited ») n'est pas util
 | Wan 3 · 1080p | 7 200 | 14 670 | ❌ hors solde |
 | **Gemini Omni 1.2 Flash · 1080p** | **2 250** | **4 770** | **≈ 9 540** |
 | Seedance 2 Mini · 720p | 1 845 | 3 960 | ≈ 7 920 |
+
+## Production Spybox (validée par Halim le 2026-11-16 : Gemini Omni 1.2 Flash · 1080p)
+- Image de départ séquence 1 (nano-banana-pro, 270 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/77c80741-c174-4ce1-9bd4-a6e70eb48687/0.jpg — en attente de validation de Halim
