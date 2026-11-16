@@ -13,7 +13,7 @@ Un brain complet : Claude connaît la boutique, ses chiffres, son client, ses r�
 ## Les étapes du setup
 - [x] 1. Structure + méthode commune + équipe d'agents installées (2026-11-16)
 - [x] 2. Interview d'identité (core/) — 2026-11-16 : seules les autorisations ont été confirmées ; le reste ⬜ À COMBLER
-- [ ] 3. Shopify branché (produits, prix)
+- [x] 3. Shopify branché (produits, prix) — 2026-11-16, lu dans `brand/produits.md` ; éléments ⚠️ CONTESTÉ à trancher
 - [ ] 4. Vrai coût : COGS, frais de paiement, break-even
 - [ ] 5. Documents branchés (Drive)
 - [ ] 6. Client et marché (avis, concurrents, avatar)
@@ -32,7 +32,8 @@ Un brain complet : Claude connaît la boutique, ses chiffres, son client, ses r�
 - [ ] Le nom de la boutique (et renommer le dossier `brain-ecom` si besoin)
 - [ ] L'onboarding de la marque — les 10 questions (`core/identite.md`)
 - [ ] La structure juridique et le statut TVA (`core/identite.md`)
-- [ ] Shopify branché : catalogue, prix, ventes, page produit (`brand/produits.md`)
+- [x] Shopify branché : catalogue, prix, ventes, page produit (`brand/produits.md`) — 2026-11-16
+- [ ] Trancher les éléments ⚠️ CONTESTÉ de la page produit (marque ARQAM/NOXE, avis, chiffres, expert, marques déposées)
 - [ ] La facture agent/fournisseur → le vrai coût et le break-even (`brand/prix-cogs-breakeven.md`)
 - [ ] Le Drive / les documents (`brand/creas.md`)
 - [ ] Les vrais avis clients (`brand/reviews.md`)
