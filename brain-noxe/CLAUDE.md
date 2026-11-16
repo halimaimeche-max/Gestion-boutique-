@@ -32,6 +32,8 @@ Résumé complet : [[identite]] · Préférences & règles d'autorisation : [[pr
 | ce que tu as appris de moi | `rules/lessons-learned.md` |
 | un truc pas encore rangé | `inbox/` |
 | un modèle de fichier réutilisable | `templates/` |
+| les angles pub validés | `brand/angles.md` |
+| les concurrents | `brand/concurrents.md` |
 | une créa STATIQUE | `~/methode/creation/statique.md` (⬜ À COMBLER jusqu'au module créa) |
 | une créa NATIVE | `~/methode/creation/native.md` (⬜ À COMBLER jusqu'au module créa) |
 | fabriquer une image | `~/methode/creation/image.md` (⬜ À COMBLER jusqu'au module créa) |
@@ -46,6 +48,7 @@ _(Chaque fois qu'un nouveau fichier important naît — un avatar, une banque d'
 | Projet | Statut |
 |---|---|
 | Mise en place du brain | 🟡 en cours — voir `projects/mise-en-place-brain.md` |
+| Test des angles 1 et 3 | 🟡 brief prêt — voir `projects/test-angles-1-et-3.md` |
 
 _(Ce tableau est tenu à jour automatiquement en fin de session — voir le protocole dans `rules/agent-os.md`.)_
 

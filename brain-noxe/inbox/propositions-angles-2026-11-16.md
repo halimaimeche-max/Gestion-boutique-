@@ -2,7 +2,7 @@
 type: inbox
 description: PROPOSITION de Claude (agent creative-strategiste), non validée — angles à tester pour Noxe. Rien n'entre dans le brain sans décision de Halim.
 updated: 2026-11-16
-statut: proposition — en attente de décision
+statut: tranché le 2026-11-16 — angles 1 et 3 retenus (→ brand/angles.md), angle 2 écarté
 sources: [[concurrents]] · [[produits]]
 ---
 

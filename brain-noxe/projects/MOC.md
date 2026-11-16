@@ -9,6 +9,7 @@ updated: 2026-11-16
 | Projet | Statut | Fichier |
 |---|---|---|
 | Mise en place du brain | 🟡 en cours | [[mise-en-place-brain]] |
+| Test des angles 1 et 3 | 🟡 brief prêt, créas à produire | [[test-angles-1-et-3]] |
 
 <!--
 Quand un nouveau projet démarre :
