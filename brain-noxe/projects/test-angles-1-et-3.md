@@ -28,12 +28,14 @@ Angles validés le 2026-11-16. Brief rédigé ci-dessous. Créas pas encore prod
 
 ## Prochaines étapes
 - [ ] Budget de test et seuil d'arrêt → il faut le COGS (facture fournisseur) — ⬜ À COMBLER
-- [ ] Angle 1 : filmer une vraie démo (qui ? quand ?) — à décider par Halim
-- [ ] Rédiger l'adcopy des deux angles (agent `copywriter`) — après accord de Halim
+- [x] Angle 1 : la démo est filmée par l'homme lui-même, en selfie (décision du 2026-11-16)
+- [ ] Rédiger l'adcopy des deux angles (agent `copywriter`) — accord de Halim le 2026-11-16 ; en attente du choix de registre (étape 1 du copywriter)
 - [ ] Produire les visuels (agent `directeur-artistique`) — après accord de Halim
 - [ ] Noter les résultats dans [[results]] (knowledge/ab-tests)
 
 ## Décisions prises
+- 2026-11-16 — La vidéo de l'angle 1 est filmée en selfie par l'homme lui-même.
+- 2026-11-16 — Feu vert pour l'adcopy des deux angles.
 - 2026-11-16 — Angles 1 et 3 retenus, angle 2 (cadeau) écarté.
 
 ## Ressources liées
