@@ -68,3 +68,10 @@ Recopiés tels qu'ils sont affichés, **pas comme des faits**. Ils ne correspond
 
 ## Liens
 - [[prix-cogs-breakeven]] · [[reviews]] · [[concurrents]]
+
+## Packaging réel (photos de Halim, 2026-11-16)
+Pot en plastique brun, couvercle noir brillant, étiquette « NOXE · [parfum] · PHEROMONE BODY BUTTER · FOR MEN · Net 200g / 7.00 oz ». Une couleur d'étiquette par parfum.
+Packshots recadrés (le pot seul, sans le flacon de parfum de marque posé à côté) : `brand/packshots/jar_noir540.jpg` · `jar_oudwood.jpg` · `jar_sauvage.jpg` · `jar_bleu.jpg` · `jar_ombre.jpg`.
+- ⚠️ CONTESTÉ — l'étiquette du pot Noir 540 indique **« Nair 540 »**, mais la boutique dit « Noir 540 ». Faute sur l'étiquette ou sur la photo ? → Halim tranche.
+- ⚠️ CONTESTÉ — deux étiquettes portent des noms de marques déposées : **« DIOR SAUVAGE »** et « Ombre Nomade » (nom d'un parfum Louis Vuitton). C'est un risque juridique sur le produit lui-même, pas seulement sur la pub → Halim tranche.
+- Les marques NOXE et ARQAM coexistent encore (vendeur Shopify = ARQAM). Le packaging réel porte **NOXE**.
