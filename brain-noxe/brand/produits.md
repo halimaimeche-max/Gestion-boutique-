@@ -16,7 +16,7 @@ source: connecteur Shopify (noxe-skin.com) + page produit rendue https://noxe-sk
 ## Catalogue (4 produits actifs, boutique créée le 2026-11-09)
 | Produit | Type | Prix | Variantes | Statut |
 |---|---|---|---|---|
-| **NOIR 540** ⭐ hero (« Bestseller n. 1 ») | Beurre corporel aux phéromones, pour homme, 200 g | 39,90 € | 5 parfums : Noir 540 (Baccarat), Oud Wood (Tom Ford), Sauvage (Dior), Bleu (Chanel), Ombre (Ombre Nomade) | actif |
+| **NOIR 540** ⭐ hero (« Bestseller n. 1 ») | Beurre corporel aux phéromones, pour homme, 200 g | 39,90 € | 5 parfums (précision de Halim, 2026-11-16 : **NOIR 540 est le nom d'UN des 5 parfums** ; le produit, c'est le beurre corporel NOXE en 5 parfums) : Noir 540 (Baccarat), Oud Wood (Tom Ford), Sauvage (Dior), Bleu (Chanel), Ombre (Ombre Nomade) | actif |
 | For Her | Beurre corporel aux phéromones, pour femme, 200 g — **précommande** | 49,99 € | 1 | actif |
 | ARQAM Profumo per Bucato | Parfum pour lessive | 33,69 € | 5 parfums (mêmes inspirations) | actif |
 | Garanzia Anti-Perdita | Assurance casse (upsell panier) | 2,99 € | 1 | actif |
