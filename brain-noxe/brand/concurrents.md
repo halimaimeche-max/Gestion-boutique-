@@ -81,3 +81,29 @@ Hors sujet mais vu : Bottega Verde et JUST Italia (beurres corporels cosmétique
 2. Les deux concurrents directs italiens couvrent déjà : « remplace ton parfum par un beurre » (Attraskin) et « ton parfum s'évapore avant midi » (Osmé, très proche de l'angle 1 de Noxe).
 3. Personne en Italie n'a encore été vu sur **la routine « un seul geste après la douche »** (angle 3 de Noxe) comme angle principal.
 4. ⚖️ La majorité des pubs qui dépensent le plus font des promesses sexuelles explicites, des faux témoignages ou des preuves « scientifiques » discutables. Risque Meta et juridique : pas un modèle.
+
+---
+
+# Mise à jour 2026-11-16 (soir) — pays voisins et Royaume-Uni
+Source : Trendtrack via Spybox, recherches « phéromones », « parfum aux phéromones » (FR), « feromonas » (ES/PT), « Pheromonen » (DE/AT), « pheromone cologne » (UK). 315 SBC. Dépenses = estimations Trendtrack. Les pubs pour animaux (Feliway, Adaptil, Virbac…) remontent dans ces recherches et ont été écartées.
+⚠️ Dans ces pays, presque tous les concurrents vendent un **parfum en spray** aux phéromones, pas un beurre corporel. Les beurres trouvés hors Italie sont au Royaume-Uni (voir plus haut : Little Miracles, London NK, Outsaw, Pheromen) et en Allemagne (Limestonu/Miriano).
+
+| Pays | Marque | Produit | Pub qui a le plus dépensé | Dépense est. | Angle | Lien |
+|---|---|---|---|---|---|---|
+| 🇪🇸 Espagne | **Parfum Parfait** (parfumparfait.es) — 5,1 M de portée/30 j | parfum Nº69 aux phéromones, 29,90 € | vidéo active (60 j) | ~21 400 € | **Anti-arnaque honnête** : « on dit que les phéromones c'est une arnaque ? 9 retours sur 1 000 ventes ; les vidéos de filles qui se retournent sont des mensonges ; c'est d'abord un parfum qui sent très bon, si les phéromones t'apportent un plus tant mieux » + rituel avant de sortir | https://medias.trendtrack.io/facebook/video/26a3b8284383ffeac9108e72d949835392f562a445aa6858c752b1939e853707.mp4 |
+| 🇬🇧 Royaume-Uni | **Liquid London** (liquid.london) | parfum aux phéromones homme/femme | image (192 j) | ~18 200 € | confiance pour le rendez-vous (« level up your confidence ») ; autre pub : « They're not cheap. But they're worth it » (premium assumé) | https://medias.trendtrack.io/facebook/image/b14418ef5db531e1070cd9e3ef6d8a8b91f26ab52e003a3edac553be64728f5a.jpg |
+| 🇩🇪 Allemagne / Autriche | **Jordan & König** (jordankoenig.de) | parfum « Superior » aux phéromones | vidéo (618 j, active) | ~15 500 € | réactions de femmes très explicites, « formule secrète », parfum d'hiver, 1 acheté = 1 offert | https://medias.trendtrack.io/facebook/video/4678f37f63a549db3f46b064045aa1baf198b612f22ea9bacf94476daa5445a4.mp4 |
+| 🇫🇷 France / Belgique | **ECDF by Julie** (« Éclat de Femme », ecdf-france.com) — 964 pubs | parfum aux phéromones **pour femme** (« potion d'amour ») | vidéo (411 j, active) | ~9 400 € | UGC de femmes : « mon copain/mon mari me regarde autrement », « prouvé scientifiquement », coffret cadeau pour les fêtes, 1 acheté = 1 offert | https://medias.trendtrack.io/facebook/video/fab906bbd9a07fedd0e95d246492ddecb6ae7bf1f19d5e166dd466a404484438.mp4 |
+| 🇪🇸 Espagne | **Pheroeli** (pheroeli.es) | parfum aux phéromones | vidéo (501 j, active) | ~8 800 € | « augmente ton attractivité naturelle », 1+1 offert, **paiement à la livraison** | https://medias.trendtrack.io/facebook/video/d7b1774f790fb37196278f54e051df32917f52e4b72d8fe6a622572aace2b6c4.mp4 |
+| 🇩🇪 Allemagne / Autriche | **Syxgott** (syxgott.de) | parfum « Heartbreaker » | vidéo (448 j) | ~6 200 € | « tu en as marre de passer inaperçu », preuve sociale Amazon, échantillon offert, 30 jours | https://medias.trendtrack.io/facebook/video/7c1a5d8cf4bca258c8c30db73dd2c2e2fd04ac7990bb13d7eb00906038433b0e.mp4 |
+| 🇩🇪 Allemagne / Autriche | **Mirage Perfume** (mirageperfume.com) — 553 pubs, **12,2 M de portée/30 j** | extrait de parfum unisexe aux phéromones, 30 % d'huile | image (40 j) | ~5 500 € par pub (énormément de pubs) | sobre : « Unisex. Pheromone. Unvergesslich. », 2+1 offert ; version récente « rendez-vous où tu transpires volontairement », **30 % d'huile = tenue**, Made in Germany | https://medias.trendtrack.io/facebook/image/fe481ba9aebcac5ec528ed365be73d47c0f83790b5c3a8c17c172088de65e9b1.jpg |
+| 🇪🇸 Espagne | **Deseo Absoluto** (deseoabsoluto.com) | parfum aux phéromones | vidéo (91 j) | ~3 300 € | psychologie inversée « hommes mariés, n'achetez pas ça », « huiles arabes, 12 h sur la peau », paiement à la livraison | https://medias.trendtrack.io/facebook/video/db303e5248cc50b18cd7115e6903c2813efaf17ed183f81dc95489f5ca243271.mp4 |
+| 🇬🇧 / 🇪🇺 | **Cupid's Hypnosis** (cupids.com) — 530 pubs | parfum aux phéromones homme | vidéo (123 j) | ~3 300 € | réactions de femmes, « 500 000 avis », version 3.0 ; autre pub : **anti-copies Amazon** (« si tu l'as payé 20 $ sur Amazon, ce n'est pas nous ») | https://medias.trendtrack.io/facebook/video/66ce64807af05d36af0e1f1c3f76861af645ecd4082cb26ad051c206dd53a431.mp4 |
+
+## Constats (pas des décisions)
+1. **Aucun beurre corporel aux phéromones ne dépense gros dans ces pays** : le format beurre reste neuf partout en Europe, comme en Italie.
+2. Deux angles **différents du « sexe explicite »** marchent et seraient compatibles avec Meta :
+   - **l'honnêteté / anti-arnaque** (Parfum Parfait, Espagne, la plus grosse pub trouvée ce soir) : « c'est d'abord un parfum qui sent très bon » ;
+   - **la tenue par l'huile** (Mirage, Allemagne : « 30 % d'huile ») — même logique que l'angle 1 de Noxe.
+3. Le **paiement à la livraison** est un argument mis en avant en Espagne (Pheroeli, Deseo Absoluto).
+4. En France, le plus gros acteur vise **les femmes** (ECDF) avec l'angle « mon mari me regarde autrement » — un public que Noxe n'adresse pas (mais For Her existe dans le catalogue).
