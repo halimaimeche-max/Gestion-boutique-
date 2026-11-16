@@ -1,7 +1,7 @@
 ---
 type: project
 description: Plan de la vidéo IA de l'angle 1 (option B, sans témoignage) — script italien et storyboard. Prêt à générer.
-statut: prêt — génération bloquée (crédits)
+statut: ✅ vidéo validée le 2026-11-16
 updated: 2026-11-16
 ---
 
@@ -69,5 +69,5 @@ Solde Higgsfield : 10 crédits. L'essai gratuit (« unlimited ») n'est pas util
   - ⚠️ Défaut : de ~3 à 5 s, il tient un pot ouvert pendant qu'un 2e pot fermé reste sur la table (pot dupliqué) ; ensuite le pot sur la table a de nouveau son couvercle. Halim : « il faut refaire cette scène » (le pot devient petit en main).
 - Image de départ séquence 2 refaite (270 SBC) : pot ouvert, grand, dans sa main gauche, table vide — https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/610c2c4b-a5d1-4ed6-9805-7167d6edcd10/0.jpg
 - Séquence 2 V2 (2 250 SBC) : https://aqqhphuxplnzxmebmkua.supabase.co/storage/v1/object/public/generations/8276/f0b3883d-ad0c-4c6e-a408-8a3939c711cc/0.mp4 — contrôle : un seul pot, grande taille, jamais posé ; texte dit en entier (0-9,4 s), puis sourire silencieux.
-- **Vidéo complète V1 (23,4 s)** = séquence 1 coupée à 9,9 s + séquence 2 V2 coupée à 13,5 s, son normalisé : https://d2ol7oe51mr4n9.cloudfront.net/user_3M6lEVMWBygOs1NnU3zjLz2va8F/838ddc22-9e72-4343-b420-82ccf3ff4038.mp4 — en attente de validation de Halim.
+- **Vidéo complète V1 (23,4 s)** = séquence 1 coupée à 9,9 s + séquence 2 V2 coupée à 13,5 s, son normalisé : https://d2ol7oe51mr4n9.cloudfront.net/user_3M6lEVMWBygOs1NnU3zjLz2va8F/838ddc22-9e72-4343-b420-82ccf3ff4038.mp4 — ✅ VALIDÉE par Halim le 2026-11-16.
 - Total dépensé pour la vidéo 1 : 8 100 SBC (dont 1 080 d'essais d'avatar et 2 250 pour la séquence 2 ratée). Rien n'entre dans le brain comme avatar officiel sans la décision de Halim.
