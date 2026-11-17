@@ -35,3 +35,30 @@ Vérifiées visuellement. Dépenses = estimations Trendtrack (faibles sur ce pro
 
 Alternatives : « L'odeur de Baccarat Rouge, le prix d'Arqam » avec étiquette 450 € (ARQAM, ~190 €) → https://medias.trendtrack.io/facebook/image/bfc964cfdf2490c64f94735ba423c8e1fadaa29859663b471ab3bd42812cf92f.png · « Halloween sale 50 $ → 10 $ » (Little Miracles, ~320 €) → https://medias.trendtrack.io/facebook/image/c166e7a5e9e9a80a4ecce5b02ceff2533e4f7861f52db2b78eb09dc84b3ecf70.jpg
 ⚖️ Plusieurs montrent des flacons de marques déposées et des badges « testé cliniquement » : à ne pas reprendre.
+
+---
+
+# Penrose Skin — meilleures créas basées sur l'offre — 2026-11-17
+Source : Trendtrack via Spybox, recherche marque « Penrose Skin », triée par portée (69 SBC). Dépenses = estimations Trendtrack.
+**Penrose Skin (penroseskin.com) vend le même produit** (beurre corporel aux phéromones, parfums « inspirés » de Baccarat, Creed, LV…). C'est de loin le plus gros annonceur trouvé sur ce produit : ~10 480 pubs actives, 27 M de portée sur 30 j, diffusé aussi en Italie (pays principal IT ou DE selon la pub).
+**Offre sur quasi toutes les pubs :** « Buy 2 Get 1 Free – Ends Today » (2 achetés + 1 offert, urgence du jour) · prix annoncé 25-35 $ le pot · garantie 30 jours · « Rated 4.8/5 ».
+
+| # | Comment l'offre est amenée | Dépense est. | Jours | Lien |
+|---|---|---|---|---|
+| 1 | Débutant/pro : « le parfum = 80 % d'alcool, parti à midi » → **« 35 $ le pot, encore là 12 h après »** + 2+1 offert | ~36 960 € | 125 (active) | https://medias.trendtrack.io/facebook/video/1184e75c22df64219ecca6d8973abd98ea18a165eb3f9217492269ded22a4a38.mp4 |
+| 2 | UGC « où l'appliquer » → **ancrage prix : 300-400 $ le parfum de créateur vs 28 $ le pot qui dure un mois** · « je conseille le pack de 3 » | ~11 630 € | 46 (active, en hausse) | https://medias.trendtrack.io/facebook/video/ca99fa33c27c76a448bee92db09fb759f10f97496fc359cb21df7155c9287fd8.mp4 |
+| 3 | **« On vous doit des excuses… on a menti : on disait produit premium à prix premium »** → premier pot à -45 %, CTA « Free Jar – Ends Today » | ~7 640 € | 112 (active) | https://medias.trendtrack.io/facebook/video/60013b2b21c64afb7d00dbfe001358c05a521b4ddfae21657ae1d8de7e4286b1.mp4 |
+| 4 | UGC « j'ai dépensé des milliers en parfums » → **« en ce moment : achètes-en 2, le 3e offert »** dit face caméra | ~7 320 € | 384 | https://medias.trendtrack.io/facebook/video/f047a1ae58f1ab90c76f6e4481ff04528be82f9f9ef49ce6a7d67650d4cb719b.mp4 |
+| 5 | UGC « 3 endroits où l'appliquer » → **28 $, dure 30 jours, garantie 30 jours** | ~6 460 € | 24 (active, en hausse) | https://medias.trendtrack.io/facebook/video/faad2dec2d4ff2562af522697c206845105b2fc05b5328d38553c280f88bd2e5.mp4 |
+| 6 | Format « homme des cavernes » : **« 300 $ ? Non. 25 $ ? Oui. Garantie 30 j ? Oui. Promo aujourd'hui ? Oui. »** | ~6 450 € | 105 | https://medias.trendtrack.io/facebook/video/fa3393c2cd8cd9e1199cbd78024834455528b5337b34b7c78e97386602eb7a5d.mp4 |
+| 7 | UGC « moins de 30 $… le secret est sorti, fais vite » (rareté) | ~6 640 € | 21 (active, forte hausse) | https://medias.trendtrack.io/facebook/video/046d0a05c2493d6b6bb59580765bc19485622829a7b6b9f70bfb6dc18aceee66.mp4 |
+| 8 | Image, CTA « Buy 2 Get 1 Free – Ends Today » (non vérifiée visuellement) | ~6 350 € | 182 | https://medias.trendtrack.io/facebook/image/e9985e45e8a5e8f47ff5a3822437cd58b714e0727cf87d87caeedbda859f7862.jpg |
+
+Leurs autres grosses pubs (gym bannie ~17 400 €, mariage ~8 100 €, « pool boy » ~8 260 €) sont des histoires chantées longues : l'offre n'y arrive qu'en CTA.
+
+## Constats (pas des décisions)
+1. Penrose ne vend pas « une réduction » : il vend **un prix ridicule face au parfum de créateur** (300 $ vs 25-35 $), puis ajoute le 2+1 offert « jusqu'à ce soir ».
+2. Le 2+1 offert est dans le CTA de presque toutes les pubs, même quand la vidéo n'en parle pas.
+3. Le format « on a menti » (fausse confession → promo) est un ressort fort, mais à manier avec prudence.
+4. ⚖️ À ne pas copier : noms de parfums de marque (« mêmes huiles que Baccarat Rouge 540 »), « Erosine », promesses de séduction, « 100 000 hommes », compte à rebours « Ends Today » permanent (pratique commerciale trompeuse en UE).
+5. Comparaison avec l'offre Noxe actuelle (lue sur la boutique) : 1 pot 39,90 € / 3 pots 79,80 € / 5 pots 99,80 € — le 3 pots Noxe revient déjà à 26,60 €/pot. Toute nouvelle offre = décision de Halim.

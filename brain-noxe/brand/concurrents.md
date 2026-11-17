@@ -36,6 +36,9 @@ source: Trendtrack via Spybox (bibliothèque de pubs Facebook), recherche du 202
 - ⬜ Prix et offres exacts de Desiros et d'Attraskin (lire leurs pages produit)
 - ⬜ Regarder les vidéos des pubs les plus diffusées (formats, accroches des 3 premières secondes)
 
+## Penrose Skin (ajout 2026-11-17)
+- **Plus gros annonceur trouvé sur le même produit** (beurre corporel aux phéromones), diffusé en Italie : ~10 480 pubs actives, 27 M de portée / 30 j. Offre « 2 achetés + 1 offert ». Détail et créas : [[creas-concurrents]]. Corrige le constat précédent « pas de gros annonceur sur ce produit ».
+
 ## Liens
 - [[produits]] · [[reviews]]
 
