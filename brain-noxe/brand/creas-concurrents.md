@@ -20,3 +20,18 @@ source: Trendtrack via Spybox (recherches du 2026-11-16). Dépenses = estimation
 Autres angles vus (non retenus dans le top 4) : UGC « frère, sur la tête de mon fils » (ARQAM, ~1 220 €), sketch au bar (Little Miracles, ~490 €), classement « millionnaire / milliardaire » (ARQAM, ~415 €), prank à l'hôtel (London NK, ~220 €).
 
 ⚖️ À ne pas reprendre : promesses d'effet sur les femmes (érosine, « désir dans le cerveau féminin »), chiffres non sourcés, noms de parfums de marque.
+
+---
+
+# 4 images concurrentes basées sur l'offre (même produit) — 2026-11-17
+Vérifiées visuellement. Dépenses = estimations Trendtrack (faibles sur ce produit).
+
+| # | Offre mise en avant | Marque · pays | Dépense est. | Ce qu'on voit | Image |
+|---|---|---|---|---|---|
+| 1 | **Prix barré simple** : 34 € au lieu de 49 €, livraison gratuite | Attraskin · 🇮🇹 | ~960 € (active) | homme qui applique le beurre après la douche puis met sa chemise : « Dopo la doccia, prima della camicia » ; offre en bas | https://medias.trendtrack.io/facebook/image/9687e6aaf4c072f6f45380160a4c96360540fdccc7b5711b8100f186092c4938.jpg |
+| 2 | **Prix flash 24 h** : 10 $ aujourd'hui, 50 $ demain | Little Miracles · 🇬🇧🇺🇸 | ~545 € | fond rouge foncé, texte seul : « pour les 24 prochaines heures… demain il repasse à 50 $ » | https://medias.trendtrack.io/facebook/image/8faab1be34dff6e6b7eeb7b7354ef4e5f73e6d3a0b5e0302b66b152fe89ff836.jpg |
+| 3 | **2 + 1 offert + prix barré + compte à rebours** | ARQAM · 🇫🇷🇧🇪 | ~170 € | « 2 + 1 OFFERT », 149,94 € barré → 21,99 €/pot, « Se finit à minuit !! », 3 pots + pictos garantie | https://medias.trendtrack.io/facebook/image/a342d28cf3d5560c2773fcc34d362988610b5992b3099b215d27a1587b2cec04.png |
+| 4 | **Le pack des 5 parfums** : « Remplace les 5 pour moins que le prix d'un seul » | ARQAM · 🇫🇷🇧🇪 | ~100 € | 5 pots alignés face aux 5 flacons de parfum qu'ils remplacent | https://medias.trendtrack.io/facebook/image/27497b793abc462702bf3cf6a6b7c9debf319f07c81cdefac634a8e2fb5212d9.png |
+
+Alternatives : « L'odeur de Baccarat Rouge, le prix d'Arqam » avec étiquette 450 € (ARQAM, ~190 €) → https://medias.trendtrack.io/facebook/image/bfc964cfdf2490c64f94735ba423c8e1fadaa29859663b471ab3bd42812cf92f.png · « Halloween sale 50 $ → 10 $ » (Little Miracles, ~320 €) → https://medias.trendtrack.io/facebook/image/c166e7a5e9e9a80a4ecce5b02ceff2533e4f7861f52db2b78eb09dc84b3ecf70.jpg
+⚖️ Plusieurs montrent des flacons de marques déposées et des badges « testé cliniquement » : à ne pas reprendre.
