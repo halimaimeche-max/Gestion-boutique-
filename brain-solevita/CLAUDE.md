@@ -32,6 +32,8 @@ Résumé complet : [[identite]] · Préférences & règles d'autorisation : [[pr
 | ce que tu as appris de moi | `rules/lessons-learned.md` |
 | un truc pas encore rangé | `inbox/` |
 | un modèle de fichier réutilisable | `templates/` |
+| les concurrents | `brand/concurrents.md` |
+| les vidéos concurrentes qui ont marché | `brand/creas-concurrents.md` |
 | une créa STATIQUE | `~/methode/creation/statique.md` (⬜ À COMBLER jusqu'au module créa) |
 | une créa NATIVE | `~/methode/creation/native.md` (⬜ À COMBLER jusqu'au module créa) |
 | fabriquer une image | `~/methode/creation/image.md` (⬜ À COMBLER jusqu'au module créa) |
