@@ -62,3 +62,14 @@ Leurs autres grosses pubs (gym bannie ~17 400 €, mariage ~8 100 €, « pool b
 3. Le format « on a menti » (fausse confession → promo) est un ressort fort, mais à manier avec prudence.
 4. ⚖️ À ne pas copier : noms de parfums de marque (« mêmes huiles que Baccarat Rouge 540 »), « Erosine », promesses de séduction, « 100 000 hommes », compte à rebours « Ends Today » permanent (pratique commerciale trompeuse en UE).
 5. Comparaison avec l'offre Noxe actuelle (lue sur la boutique) : 1 pot 39,90 € / 3 pots 79,80 € / 5 pots 99,80 € — le 3 pots Noxe revient déjà à 26,60 €/pot. Toute nouvelle offre = décision de Halim.
+
+## Penrose Skin — images (recherche images seules, 45 SBC, vérifiées visuellement le 2026-11-17)
+| # | Offre / message visible sur l'image | Dépense est. | Jours | Image |
+|---|---|---|---|---|
+| 1 | **« LAST CHANCE — Buy 2 Get 1 Free »** en grosses lettres 3D, 3 pots dans un caddie | ~6 350 € | 182 | https://medias.trendtrack.io/facebook/image/e9985e45e8a5e8f47ff5a3822437cd58b714e0727cf87d87caeedbda859f7862.jpg |
+| 2 | **« The Baccarat Rouge inspired body butter is 45% off today »**, pot à côté du flacon | ~3 110 € | 90 (active) | https://medias.trendtrack.io/facebook/image/f078ac8a6a0487e9abe65f5dcf2236fc5553c7941b5b6d98b514c9c65cabe7b1.png |
+| 3 | **« Black Friday Sale — up to 75% off, ends tonight »** + étiquette « extra 30 % » + code BF30, bandes « Black Friday » | ~3 430 € (+ ~2 370 € version CYBER30) | 221 | https://medias.trendtrack.io/facebook/image/c2eb63ec457045c5b56838cc0cb4578ef165411149ecb8a3972029020db5561e.jpg |
+| 4 | **« Tom Ford Oud Wood scent for a fraction of the price »**, pot devant le flacon | ~3 630 € + ~2 940 € (2 versions) | 90-95 (active) | https://medias.trendtrack.io/facebook/image/6325c5739399c9841a9527fbc9fd3ad52c23e4924280d75be7ae495ebc2ac621.jpg |
+
+Leurs autres grosses images ne parlent pas d'offre : « Inspired by Baccarat 540 » pot + flacon (~6 930 €, la plus grosse), « The Unfair Advantage » (~4 470 €), couple au lit « She smells it on the pillow » (~2 860 €), cœur dessiné dans le beurre + mot « Keep wearing this » (~2 690 €).
+⚖️ Toutes montrent des flacons de marques déposées (Baccarat Rouge, Tom Ford) et des noms de marque : à ne pas reprendre. « Ends tonight » permanent = risque de pratique trompeuse en UE.
