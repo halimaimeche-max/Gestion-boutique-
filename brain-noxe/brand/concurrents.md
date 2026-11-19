@@ -133,3 +133,23 @@ Source : Trendtrack via Spybox, « beurre corporel » (FR), « manteca corporal 
 1. **Hors Italie, le beurre corporel aux phéromones n'est presque pas exploité en pub** : les plus gros budgets trouvés sont ~1 200 € par pub. Personne ne domine.
 2. ⚠️ **ARQAM (France/Belgique) vend exactement le même produit que Noxe** : même nom « Noir 540 », mêmes 5 parfums, même « érosine », même « 135 400 hommes », mêmes formules (« Fini les parfums… », « 93 % d'alcool »). Et le vendeur Shopify de Noxe s'appelle **ARQAM**, les images de la page Noxe portent des noms « aq-… ». → **À clarifier avec Halim : ARQAM est-elle sa propre marque (version française de Noxe) ?** Si oui, ce n'est pas un concurrent mais une source de créas déjà testées.
 3. Le nom « 540 » revient chez plusieurs (Attraskin « Crimson 540 », Valerio « Crimson 540 ») → probablement le même fournisseur pour tous.
+
+---
+
+# Royaume-Uni — qui vend exactement le même produit (beurre corporel aux phéromones) — 2026-11-19
+Source : Trendtrack via Spybox, recherches « pheromone body butter » et « body butter cologne » (texte des pubs, triées par portée, 228 SBC). Seules les pubs dont la liste de pays contient le Royaume-Uni (GB) sont retenues. Dépenses = estimations Trendtrack.
+
+| Marque (page Facebook) | Site | Pubs actives | Plus grosse pub (dépense est.) | Angle / offre | Exemple |
+|---|---|---|---|---|---|
+| **Little Miracles** (« Natural Wellness Insights ») | littlemiraclesco.whop.site | 0 (tout arrêté) | ~545 € | « je sentais rien » ; « même odeur que le parfum à 300 $ pour 10 $ » ; sketch au bar ; prix flash 24 h | https://medias.trendtrack.io/facebook/video/8795ea1ec3b93ce5778f84f8edcef11dde91a0ab4cb20445ca12a129ea74cfca.mp4 |
+| **Outsaw** (« Silver Purr ») | outsaw.com | 0 | ~366 € (193 j) | « Cologne fades by lunch » ; « Same scent. Fraction of the price. » | https://medias.trendtrack.io/facebook/video/75dbe34c44035a68347cb3b64b6bc054a5e71e1df810fa8cf4d1f64fdaeecefb.mp4 |
+| **London NK** | londonnk.com (boutique généraliste) | 672 (toutes boutiques confondues) | ~220 € (active) | sketch « réservation d'hôtel », « parfum américain contre parfum arabe », « Cologne fades by lunch » ; 2 achetés + 1 offert | https://medias.trendtrack.io/facebook/video/2fc7b10de161ee1dceaf4dc086a586ec86efdaf1240b606fab8950c42524d11d.mp4 |
+| **Kingsire** (+ pages « Marcus Williams », « Prince Jermane », « Alexandra Martinez ») | kingsire.co | 71 | ~204 € (surtout Irlande, GB inclus) | longues histoires à la 1re personne (« le nouveau copain de mon ex-femme dans le même avion »), « thérapeute de couple » ; « Buy 2 Get 1 FREE Today Only », « un pot offert » | https://medias.trendtrack.io/facebook/image/a68a16d51739aa287523b95db55c7253a76d74190c87b5dd5173c0692f6eb10b.png |
+| **Pheromen** (déjà noté le 16/11) | pheromen.com | 637 | ~33 € sur le beurre | surtout du spray ; beurre en complément ; 3 pour le prix de 2 | — |
+| **OnyxSkin** | theonyxskin.com | 0 | ~3 € | copie du texte Penrose, « Buy 2 Get 1 Free – Ends Today » | — |
+
+## Constats (pas des décisions)
+1. Au Royaume-Uni, **personne ne dépense gros sur ce produit** : la plus grosse pub trouvée est à ~545 €, et la plupart des annonceurs ont arrêté.
+2. **Penrose Skin, le leader européen, ne cible pas le Royaume-Uni** : aucune de ses 25 pubs vues ne contient GB dans ses pays (il cible l'Irlande, l'UE, les États-Unis, l'Australie…).
+3. Même argumentaire partout : « le parfum s'évapore avant midi », « même odeur que le parfum de luxe pour une fraction du prix », 2 achetés + 1 offert.
+4. Ce que ça peut vouloir dire : marché UK peu exploité OU produit qui n'y a pas pris. Les données ne permettent pas de trancher.
