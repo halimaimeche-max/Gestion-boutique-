@@ -150,6 +150,6 @@ Source : Trendtrack via Spybox, recherches « pheromone body butter » et « bod
 
 ## Constats (pas des décisions)
 1. Au Royaume-Uni, **personne ne dépense gros sur ce produit** : la plus grosse pub trouvée est à ~545 €, et la plupart des annonceurs ont arrêté.
-2. **Penrose Skin, le leader européen, ne cible pas le Royaume-Uni** : aucune de ses 25 pubs vues ne contient GB dans ses pays (il cible l'Irlande, l'UE, les États-Unis, l'Australie…).
+2. **Penrose Skin, le leader européen, ne cible pas le Royaume-Uni** : aucune des pubs Penrose relevées (vidéos et images) ne contient GB dans ses pays (il cible l'Irlande, l'UE, les États-Unis, l'Australie…).
 3. Même argumentaire partout : « le parfum s'évapore avant midi », « même odeur que le parfum de luxe pour une fraction du prix », 2 achetés + 1 offert.
 4. Ce que ça peut vouloir dire : marché UK peu exploité OU produit qui n'y a pas pris. Les données ne permettent pas de trancher.
