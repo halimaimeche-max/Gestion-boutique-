@@ -70,3 +70,16 @@ Juste en dessous (21-25) : « cuscino piatto » démo (~28 800 €), épaule san
 2. Les vidéos qui dépensent le plus sont de **l'éducation sur la position de sommeil** et des **croyances cassées** (ventre/dos, côté = C5-C6).
 3. **En cours en ce moment** (vues le 21-22/11) : pire position (#4), « Non comprare » (#7), image réveil (#8), « lo vogliamo » (#10), nœud omoplates (#14, #18), migraine (#16, en très forte hausse).
 4. ⚖️ Beaucoup d'allégations médicales (C5-C6, hernie, « les médecins se trompent ») et un faux témoignage chirurgie : risque Meta + juridique, à ne pas copier tel quel.
+
+## Texte écrit SUR les 7 images du top 20 (lu le 2026-11-23)
+Lecture automatique du texte (OCR Firecrawl, ~35 crédits Firecrawl). Le visuel lui-même n'a PAS été vu (le serveur d'images est bloqué depuis cet environnement) ; certains mots sont mal lus.
+| # top 20 | Dépense est. | Texte sur l'image | Parle de douleur ? |
+|---|---|---|---|
+| 1 | ~145 040 € | « "Dolore al collo sparito in appena [X] notti" — Provalo per 30 notti e senti la differenza » | ✅ oui, cou, de façon directe (résultat promis) |
+| 8 | ~45 940 € | « La maggior parte degli over 50 che dormono di lato soffre di dolori alle spalle, ma solo pochi conoscono questo trucco… Leggi tutto » (style article) | ✅ oui, épaules, cible +50 ans |
+| 12 | ~41 210 € | « Questo non è un dispositivo medico · È molto di più · Orthosleep ti cambia la vita · Oggi 60% di sconto » | ❌ non (offre + mention légale) |
+| 13 | ~39 860 € | « Disponibile solo per 48 ore · Lo sconto del -50% sta per scadere. E anche le scorte. · Provalo senza rischi per 100 notti » | ❌ non (offre pure) |
+| 15 | ~38 790 € | « Non è mai stata la tua postura. È sempre stato il cuscino » + Gennaio / Febbraio / Marzo | ⚠️ indirect (la cause, pas le mot douleur) |
+| 19 | ~31 320 € | « Ultima possibilità. Dopo oggi, è finita · Riposo profondo, senza fastidi · Collo libero da dolore al risveglio · Nessun risveglio notturno · Ti addormenti in 15 minuti · -60% ora, solo oggi » | ✅ oui, en bénéfice dans une liste + offre |
+| 20 | ~30 590 € | « Il Santo Graal per il tuo collo · Matrice C1-C7™ pour soulager la pression toute la nuit · 100 notti di prova, rimborso » | ⚠️ indirect (cou, vertèbres, pression) |
+Rappel : le texte de la pub AU-DESSUS de l'image parle de douleur sur 6 des 7 (« Stanco di svegliarti ogni mattina con dolore al collo, alla schiena o alle spalle? ») ; la n°15 a un texte témoignage (« Sono stata operata al collo »).
