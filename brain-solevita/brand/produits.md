@@ -33,6 +33,9 @@ source: page produit rendue https://solevitaufficiale.it/products/cuscino-solevi
 | Citation « Dr. Marc R., chiropratico » | expert non vérifié ; l'image porte un nom de fichier espagnol (« quiropractico-es ») |
 | Avis évoquant la disparition de migraines, de névralgies, de douleurs vertébrales | allégations de santé : risque pour un produit qui n'est pas un dispositif médical |
 | Certifications OEKO-TEX® et CertiPUR® | à prouver avec les certificats du fournisseur |
+| Bandeau « Black Friday – Fino al -50% » + compte à rebours 24 h, mais bloc prix « OFFERTA HALLOWEEN 🎃 » (lu le 2026-11-23) | message d'offre incohérent sur la même page |
+| Stock « Solo 7 pezzi » (16/11) puis « Solo 14 pezzi » (23/11) | rareté qui change sans logique visible |
+| Répartition des avis : 5★ 1 414 + 4★ 119 = 1 533, 3★/2★/1★ vides, total annoncé 1 704 | chiffres qui ne s'additionnent pas |
 | Prix barrés 89,90 € / 179,80 € et « fino al -50% » | prix de référence à justifier (règles européennes sur les promotions) |
 
 ## Liens
