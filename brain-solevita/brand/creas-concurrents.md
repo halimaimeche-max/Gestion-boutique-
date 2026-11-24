@@ -83,3 +83,28 @@ Lecture automatique du texte (OCR Firecrawl, ~35 crédits Firecrawl). Le visuel 
 | 19 | ~31 320 € | « Ultima possibilità. Dopo oggi, è finita · Riposo profondo, senza fastidi · Collo libero da dolore al risveglio · Nessun risveglio notturno · Ti addormenti in 15 minuti · -60% ora, solo oggi » | ✅ oui, en bénéfice dans une liste + offre |
 | 20 | ~30 590 € | « Il Santo Graal per il tuo collo · Matrice C1-C7™ pour soulager la pression toute la nuit · 100 notti di prova, rimborso » | ⚠️ indirect (cou, vertèbres, pression) |
 Rappel : le texte de la pub AU-DESSUS de l'image parle de douleur sur 6 des 7 (« Stanco di svegliarti ogni mattina con dolore al collo, alla schiena o alle spalle? ») ; la n°15 a un texte témoignage (« Sono stata operata al collo »).
+
+---
+
+# Top 10 images TOUJOURS ACTIVES en Italie (vues diffusées depuis le 15/11) — 2026-11-24
+Source : Trendtrack via Spybox — recherche « cuscino cervicale » (images, actives, 40 pubs) + marques « Benessere Serenium » et « Prismé Beauty Trends » (images, actives). 243 SBC. Texte des images lu par OCR (Firecrawl), visuels non vus. Exclues : les pubs marquées « actives » mais plus vues depuis le 24/10 (ex. Serenium 5623…, ~11 800 €).
+
+| # | Marque | Dépense est. | En ligne depuis | Portée 30 j | Texte sur l'image | Angle | Lien |
+|---|---|---|---|---|---|---|---|
+| 1 | Serenium (Prismé) | ~45 960 € | 464 j | 307 000 | « La plupart des plus de 50 ans qui dorment sur le côté ont mal aux épaules… ce truc » (style article) | Douleur (épaules, +50 ans) | https://medias.trendtrack.io/facebook/image/9855a714282f233784ba7972ac6997c6ea29865a6e95908c19f5bc5381188aa1.jpg |
+| 2 | Piumini Danesi | ~9 260 € | 410 j (vue le 15/11) | 48 000 | « Il dolore costa più di un cuscino » | Douleur + prix | https://medias.trendtrack.io/facebook/image/e335dfccee07dfdff2c8df6ab6e59669dce48bcd49f108d8edef663ac4cb1764.jpg |
+| 3 | Serenium | ~3 750 € | 31 j | 352 000 | « Offerta Black Friday, solo per poco tempo » | Offre | https://medias.trendtrack.io/facebook/image/e54219e1021a26dbc88346679c8d274bb68e238b777b9e0ccfcbc04654573c87.jpg |
+| 4 | Serenium | ~2 940 € | 31 j | 320 000 | « Ultima possibilità » -60 % + liste (dont « collo libero da dolore al risveglio ») | Offre + douleur | https://medias.trendtrack.io/facebook/image/42aab6b5344435a58535973214d90abd5df12b3fc9c829a77a65afe36a51a65f.jpg |
+| 5 | Serenium | ~1 550 € | 16 j | 65 000 | « Secouer la main ne sert à rien, le nerf est écrasé plus haut » (fourmillements) | Douleur (nerf, mécanisme) | https://medias.trendtrack.io/facebook/image/c1c01eac55ffbd73b6e07da010a7be9844b678230fe397cfa3b878d7e31121c0.jpg |
+| 6 | Serenium | ~1 370 € | 31 j | 148 000 | « Dolore al collo sparito in [X] notti » | Douleur (résultat) | https://medias.trendtrack.io/facebook/image/f43ba3d6a1ae9590c359918a66202cf8d4a758ffb738d15d9a5c548473e4e708.jpg |
+| 7 | Serenium | ~1 000 € | 31 j | 101 000 | « Usa il codice, fino al -70 % » + BLACKFRIDAY10 + 4,8/5 | Offre | https://medias.trendtrack.io/facebook/image/2b6399ab8cd2898b8b9a2774acd612c60ba1a18e740d0ef24e10b19f659ca8a6.jpg |
+| 8 | Serenium | ~720 € | 31 j | 74 000 | « Black Friday -50 % + federa seta gratis » | Offre | https://medias.trendtrack.io/facebook/image/f0215f61e3461268419ca84bf5708072b7b6c989d85b02824ac1e02dcbb93a5e.jpg |
+| 9 | Serenium | ~490 € | 31 j | 49 000 | « Offerta di Natale -65 % + federa seta gratis » | Offre | https://medias.trendtrack.io/facebook/image/2fc18e444bbf1e6a4ed70af10cf0722832930c31ffcd921faae4ac10c807ce4b.png |
+| 10 | Serenium | ~410 € | 16 j | 43 000 | « Esami tutti nella norma. E la mattina ti gira ancora la testa. E il collo. » | Symptôme / cause cachée (cou) | https://medias.trendtrack.io/facebook/image/e5ead93445901f8121b089a934b19adcea1ae18286d7dba95033a52d64b07d70.jpg |
+
+## Même angle ? (constats)
+- Non : 2 familles. **Problème (douleur/symptômes du cou)** : 5 images (#1, 2, 5, 6, 10) + #4 mixte. **Offre saisonnière** (Black Friday / Noël) : 4 images (#3, 7, 8, 9).
+- Les 5 images Serenium « problème » + #4 ont toutes le même texte de pub au-dessus : « Stanco di svegliarti ogni mattina con dolore al collo… ». Les 4 images d'offre ont un texte d'offre.
+- Seul l'angle problème a accumulé une grosse dépense dans la durée (#1 : ~46 000 €, 464 j, toujours 307 000 personnes/30 j). Les offres ont 31 jours max : trop récentes pour juger hors saison.
+- Fait : les images #4 et #6 reprennent mot pour mot deux anciennes gagnantes arrêtées (~31 300 € et ~145 000 €), relancées le 24/10 en nouvelles pubs.
+- Limite : 9 images sur 10 sont de Serenium → c'est ce que Serenium paie, pas une preuve sur tout le marché. Autres annonceurs actifs trouvés : Fisiotex (~370 €), CM Italia (~170 €), Elefantico (~60 €).
